@@ -12,18 +12,15 @@
 
 ## Overview
 
-**Timeless Dream** is a **chill**, **dreamlike** `HyDE`/`Hyprdots` theme made for `Hyprland` on `Arch Linux`, featuring **soft** deep-space-inspired visuals.
-
 ![theme overview](/Assets/overview.gif)
 
 ## Screenshots
-
-Take a closer look at the different **aspects** of **Timeless Dream**:
 
 ![theme screenshot 1](/Assets/screenshot_1.png)
 ![theme screenshot 2](/Assets/screenshot_2.png)
 ![theme screenshot 3](/Assets/screenshot_3.png)
 ![theme screenshot 4](/Assets/screenshot_4.png)
+![theme screenshot 5](/Assets/screenshot_5.png)
 
 ## Installation
 
