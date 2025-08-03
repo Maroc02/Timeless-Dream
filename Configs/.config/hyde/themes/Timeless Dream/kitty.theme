@@ -9,32 +9,32 @@ color0  #252B37
 color8  #506477
 
 # Red
-color1  #D0679D 
-color9  #D0679D 
+color1  #D0679D
+color9  #D0679D
 
 # Green
-color2  #5DE4C7 
-color10 #5DE4C7 
+color2  #5DE4C7
+color10 #5DE4C7
 
 # Yellow
-color3  #FFFAC2 
-color11 #FFFAC2 
+color3  #FFFAC2
+color11 #FFFAC2
 
 # Blue
-color4  #89DDFF 
-color12 #ADD7FF 
+color4  #89DDFF
+color12 #ADD7FF
 
 # Magenta
-color5  #FCC5E9 
-color13 #FCC5E9 
+color5  #FCC5E9
+color13 #FCC5E9
 
 # Cyan
-color6  #89DDFF 
-color14 #ADD7FF 
+color6  #89DDFF
+color14 #ADD7FF
 
 # White
-color7  #FFFFFF 
-color15 #FFFFFF 
+color7  #FFFFFF
+color15 #FFFFFF
 
 # Cursor
 cursor #A6ACCD
